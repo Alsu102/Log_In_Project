@@ -44,7 +44,7 @@
                   <Font size="22.0" />
                </font>
             </Text>
-            <CheckBox fx:id="reqest1" mnemonicParsing="false" onAction="#viewRequest1" text="reqest1">
+            <CheckBox fx:id="request1" mnemonicParsing="false" onAction="#viewRequest1" text="reqest1">
                <VBox.margin>
                   <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
                </VBox.margin>

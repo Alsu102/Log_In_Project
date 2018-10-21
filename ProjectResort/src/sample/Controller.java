@@ -4,12 +4,19 @@ import javafx.event.ActionEvent;
 import javafx.scene.control.Button;
 import javafx.scene.control.CheckBox;
 import javafx.scene.input.MouseEvent;
+import javafx.scene.text.Text;
 
 public class Controller {
 
 
   public Button buttonCompleted;
-  public CheckBox reqest1;
+  public CheckBox request1;
+  public Button buttonViewEmloyees;
+  public Button buttonCrateAccount;
+  public Button buttonRequests;
+  public Button buttonFloorChart;
+  public Button buttonLogOut;
+  public Text welcomeToFgcu;
 
   public void welcomeToFgcuCliked(MouseEvent mouseEvent) {
 
